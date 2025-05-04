@@ -9,7 +9,7 @@
 
 ## 可視化例
 
-![Heatmap of genre trends](figures/genre_trends_japan_highrated_single_genre.png)
+![Heatmap of genre trends](figures/genre_trends_highrated.png)
 
 ## データ出典
 
